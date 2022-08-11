@@ -21,3 +21,5 @@
 ```
 
 ![文言](https://github.com/LonelyYeezhiChicken/my-first-ts/blob/main/dataType-boolean/booleanType.svg)
+
+[回首頁](https://github.com/LonelyYeezhiChicken/my-first-ts)
