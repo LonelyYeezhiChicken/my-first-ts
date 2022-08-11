@@ -1,0 +1,17 @@
+吾有一爻。曰陽。名之曰「isPig」
+吾有一術。名之曰「checkPig」
+欲行是術。必先得一物。曰「animal」。
+乃行是術曰。
+    若「animal」等於「「pig」」者。
+        昔之「isPig」者。今陽是矣。
+    若非。
+        昔之「isPig」者。今陰是矣。
+    云云。
+是謂「checkPig」之術也。
+
+噫。施「checkPig」於「「dog」」。
+吾有一物。曰「isPig」。
+書之。
+施「checkPig」於「「pig」」。
+吾有一物。曰「isPig」。
+書之。
