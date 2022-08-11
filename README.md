@@ -6,3 +6,5 @@ ts 入門練習順便加入文言文
 ```
 npm install -g typescript
 ```
+
+1. [布林值](https://github.com/LonelyYeezhiChicken/my-first-ts/tree/main/dataType-boolean)
