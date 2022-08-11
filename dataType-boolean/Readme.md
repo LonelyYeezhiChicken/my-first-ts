@@ -19,3 +19,5 @@
 ```wy
  吾有一爻。曰陽。名之曰「isPig」
 ```
+
+![文言](https://github.com/LonelyYeezhiChicken/my-first-ts/blob/main/dataType-boolean/booleanType.svg)
