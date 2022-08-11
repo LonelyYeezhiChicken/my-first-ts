@@ -9,3 +9,4 @@ npm install -g typescript
 
 1. [布林值](https://github.com/LonelyYeezhiChicken/my-first-ts/tree/main/dataType-boolean)
 2. [數值](https://github.com/LonelyYeezhiChicken/my-first-ts/tree/main/dataType-number)
+3. [字串](https://github.com/LonelyYeezhiChicken/my-first-ts/tree/main/dataType-string)
