@@ -25,3 +25,5 @@ var infinityNumber = Infinity;
 ```
 
 ![文言](https://github.com/LonelyYeezhiChicken/my-first-ts/blob/main/dataType-number/numberType.svg)
+
+[回首頁](https://github.com/LonelyYeezhiChicken/my-first-ts)
