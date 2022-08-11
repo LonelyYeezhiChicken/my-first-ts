@@ -1,0 +1,151 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 792 612">
+    <rect x="0" y="0" width="396" height="612" stroke="#222" fill="linen"></rect>
+    <rect x="396" y="0" width="396" height="612" stroke="#222" fill="linen"></rect>
+    <path d="M792 120 L421 120 L421 592 L792 592" stroke="#222" fill="none" stroke-width="3"></path>
+    <path d="M792 214.4 L782 214.4 L782 224.4 L792 219.4" fill="#222" stroke="none"></path>
+    <path d="M792 211.4 L782 211.4" fill="none" stroke="#222"></path>
+    <path d="M782 227.4 L792 222.4" fill="none" stroke="#222"></path>
+    <path d="M792 450.4 L782 450.4" fill="none" stroke="#222"></path>
+    <line x1="782" y1="120" x2="782" y2="592" stroke="#222"></line>
+    <line x1="754.6153846153846" y1="120" x2="754.6153846153846" y2="592" stroke="#222"></line>
+    <line x1="727.2307692307693" y1="120" x2="727.2307692307693" y2="592" stroke="#222"></line>
+    <line x1="699.8461538461539" y1="120" x2="699.8461538461539" y2="592" stroke="#222"></line>
+    <line x1="672.4615384615386" y1="120" x2="672.4615384615386" y2="592" stroke="#222"></line>
+    <line x1="645.0769230769232" y1="120" x2="645.0769230769232" y2="592" stroke="#222"></line>
+    <line x1="617.6923076923078" y1="120" x2="617.6923076923078" y2="592" stroke="#222"></line>
+    <line x1="590.3076923076925" y1="120" x2="590.3076923076925" y2="592" stroke="#222"></line>
+    <line x1="562.9230769230771" y1="120" x2="562.9230769230771" y2="592" stroke="#222"></line>
+    <line x1="535.5384615384618" y1="120" x2="535.5384615384618" y2="592" stroke="#222"></line>
+    <line x1="508.1538461538464" y1="120" x2="508.1538461538464" y2="592" stroke="#222"></line>
+    <line x1="480.76923076923106" y1="120" x2="480.76923076923106" y2="592" stroke="#222"></line>
+    <line x1="453.3846153846157" y1="120" x2="453.3846153846157" y2="592" stroke="#222"></line>
+    <line x1="426.00000000000034" y1="120" x2="426.00000000000034" y2="592" stroke="#222"></line>
+    <text x="783" y="244.4" font-size="8" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#222">i</text>
+    <text x="783" y="259.4" font-size="8" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#222">n</text>
+    <text x="783" y="274.4" font-size="8" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#222">t</text>
+    <text x="783" y="289.4" font-size="8" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#222">e</text>
+    <text x="783" y="304.4" font-size="8" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#222">r</text>
+    <text x="783" y="319.4" font-size="8" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#222">f</text>
+    <text x="783" y="334.4" font-size="8" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#222">a</text>
+    <text x="783" y="349.4" font-size="8" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#222">c</text>
+    <text x="783" y="364.4" font-size="8" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#222">e</text>
+    <text x="783" y="379.4" font-size="8" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#222">D</text>
+    <text x="783" y="394.4" font-size="8" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#222">e</text>
+    <text x="783" y="409.4" font-size="8" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#222">m</text>
+    <text x="783" y="424.4" font-size="8" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#222">o</text>
+    <text x="783" y="480.4" font-size="8" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#222">一</text>
+    <text x="758.6153846153846" y="138" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#222" wy-data="吾">吾</text>
+    <text x="758.6153846153846" y="156" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#222" wy-data="有">有</text>
+    <text x="758.6153846153846" y="174" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#872" wy-data="一">一</text>
+    <text x="758.6153846153846" y="192" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#222" wy-data="物">物</text>
+    <circle cx="779" cy="192" r="2.5714285714285716" stroke="#E53" fill="none" stroke-width="1" wy-data="。"></circle>
+    <text x="758.6153846153846" y="210" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#222" wy-data="名">名</text>
+    <text x="758.6153846153846" y="228" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#222" wy-data="之">之</text>
+    <text x="758.6153846153846" y="246" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#222" wy-data="曰">曰</text>
+    <path d="M754.6153846153846 257.25 L760.0923076923077 252.75 L776.5230769230769 252.75 L782 257.25" stroke="#222" fill="none" stroke-width="0.5" wy-data="「"></path>
+    <text x="758.6153846153846" y="273" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#248" wy-data="使">使</text>
+    <text x="758.6153846153846" y="291" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#248" wy-data="用">用</text>
+    <text x="758.6153846153846" y="309" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#248" wy-data="者">者</text>
+    <text x="758.6153846153846" y="327" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#248" wy-data="明">明</text>
+    <text x="758.6153846153846" y="345" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#248" wy-data="細">細</text>
+    <path d="M754.6153846153846 349.5 L760.0923076923077 354 L776.5230769230769 354 L782 349.5" stroke="#222" fill="none" stroke-width="0.5" wy-data="」"></path>
+    <text x="758.6153846153846" y="372" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#222" wy-data="昔">昔</text>
+    <text x="758.6153846153846" y="390" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#222" wy-data="之">之</text>
+    <path d="M754.6153846153846 401.25 L760.0923076923077 396.75 L776.5230769230769 396.75 L782 401.25" stroke="#222" fill="none" stroke-width="0.5" wy-data="「"></path>
+    <text x="758.6153846153846" y="417" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#248" wy-data="使">使</text>
+    <text x="758.6153846153846" y="435" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#248" wy-data="用">用</text>
+    <text x="758.6153846153846" y="453" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#248" wy-data="者">者</text>
+    <text x="758.6153846153846" y="471" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#248" wy-data="明">明</text>
+    <text x="758.6153846153846" y="489" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#248" wy-data="細">細</text>
+    <path d="M754.6153846153846 493.5 L760.0923076923077 498 L776.5230769230769 498 L782 493.5" stroke="#222" fill="none" stroke-width="0.5" wy-data="」"></path>
+    <text x="758.6153846153846" y="516" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#222" wy-data="之">之</text>
+    <path d="M754.6153846153846 527.25 L760.0923076923077 522.75 L776.5230769230769 522.75 L782 527.25" stroke="#222" fill="none" stroke-width="0.5" wy-data="「"></path>
+    <path d="M754.6153846153846 536.25 L760.0923076923077 531.75 L776.5230769230769 531.75 L782 536.25" stroke="#222" fill="none" stroke-width="0.5" wy-data="「"></path>
+    <text x="758.6153846153846" y="552" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#248" wy-data="序">序</text>
+    <text x="758.6153846153846" y="570" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#248" wy-data="號">號</text>
+    <path d="M754.6153846153846 574.5 L760.0923076923077 579 L776.5230769230769 579 L782 574.5" stroke="#222" fill="none" stroke-width="0.5" wy-data="」"></path>
+    <path d="M727.2307692307693 124.5 L732.7076923076924 129 L749.1384615384616 129 L754.6153846153846 124.5" stroke="#222" fill="none" stroke-width="0.5" wy-data="」"></path>
+    <text x="731.2307692307693" y="147" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#E53" wy-data="者">者</text>
+    <circle cx="751.6153846153846" cy="147" r="2.5714285714285716" stroke="#E53" fill="none" stroke-width="1" wy-data="。"></circle>
+    <text x="731.2307692307693" y="165" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#222" wy-data="今">今</text>
+    <text x="731.2307692307693" y="183" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#872" wy-data="零">零</text>
+    <text x="731.2307692307693" y="201" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#222" wy-data="是">是</text>
+    <text x="731.2307692307693" y="219" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#222" wy-data="矣">矣</text>
+    <circle cx="751.6153846153846" cy="219" r="2.5714285714285716" stroke="#E53" fill="none" stroke-width="1" wy-data="。"></circle>
+    <text x="731.2307692307693" y="237" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#222" wy-data="昔">昔</text>
+    <text x="731.2307692307693" y="255" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#222" wy-data="之">之</text>
+    <path d="M727.2307692307693 266.25 L732.7076923076924 261.75 L749.1384615384616 261.75 L754.6153846153846 266.25" stroke="#222" fill="none" stroke-width="0.5" wy-data="「"></path>
+    <text x="731.2307692307693" y="282" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#248" wy-data="使">使</text>
+    <text x="731.2307692307693" y="300" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#248" wy-data="用">用</text>
+    <text x="731.2307692307693" y="318" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#248" wy-data="者">者</text>
+    <text x="731.2307692307693" y="336" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#248" wy-data="明">明</text>
+    <text x="731.2307692307693" y="354" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#248" wy-data="細">細</text>
+    <path d="M727.2307692307693 358.5 L732.7076923076924 363 L749.1384615384616 363 L754.6153846153846 358.5" stroke="#222" fill="none" stroke-width="0.5" wy-data="」"></path>
+    <text x="731.2307692307693" y="381" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#222" wy-data="之">之</text>
+    <path d="M727.2307692307693 392.25 L732.7076923076924 387.75 L749.1384615384616 387.75 L754.6153846153846 392.25" stroke="#222" fill="none" stroke-width="0.5" wy-data="「"></path>
+    <path d="M727.2307692307693 401.25 L732.7076923076924 396.75 L749.1384615384616 396.75 L754.6153846153846 401.25" stroke="#222" fill="none" stroke-width="0.5" wy-data="「"></path>
+    <text x="731.2307692307693" y="417" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#248" wy-data="名">名</text>
+    <text x="731.2307692307693" y="435" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#248" wy-data="字">字</text>
+    <path d="M727.2307692307693 439.5 L732.7076923076924 444 L749.1384615384616 444 L754.6153846153846 439.5" stroke="#222" fill="none" stroke-width="0.5" wy-data="」"></path>
+    <path d="M727.2307692307693 448.5 L732.7076923076924 453 L749.1384615384616 453 L754.6153846153846 448.5" stroke="#222" fill="none" stroke-width="0.5" wy-data="」"></path>
+    <text x="731.2307692307693" y="471" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#E53" wy-data="者">者</text>
+    <circle cx="751.6153846153846" cy="471" r="2.5714285714285716" stroke="#E53" fill="none" stroke-width="1" wy-data="。"></circle>
+    <text x="731.2307692307693" y="489" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#222" wy-data="今">今</text>
+    <path d="M727.2307692307693 500.25 L732.7076923076924 495.75 L749.1384615384616 495.75 L754.6153846153846 500.25" stroke="#222" fill="none" stroke-width="0.5" wy-data="「"></path>
+    <path d="M727.2307692307693 509.25 L732.7076923076924 504.75 L749.1384615384616 504.75 L754.6153846153846 509.25" stroke="#222" fill="none" stroke-width="0.5" wy-data="「"></path>
+    <text x="731.2307692307693" y="525" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#248" wy-data="C">C</text>
+    <text x="731.2307692307693" y="543" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#248" wy-data="h">h</text>
+    <text x="731.2307692307693" y="561" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#248" wy-data="i">i</text>
+    <text x="731.2307692307693" y="579" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#248" wy-data="c">c</text>
+    <text x="703.8461538461539" y="138" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#248" wy-data="k">k</text>
+    <text x="703.8461538461539" y="156" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#248" wy-data="e">e</text>
+    <text x="703.8461538461539" y="174" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#248" wy-data="n">n</text>
+    <path d="M699.8461538461539 178.5 L705.323076923077 183 L721.7538461538462 183 L727.2307692307693 178.5" stroke="#222" fill="none" stroke-width="0.5" wy-data="」"></path>
+    <path d="M699.8461538461539 187.5 L705.323076923077 192 L721.7538461538462 192 L727.2307692307693 187.5" stroke="#222" fill="none" stroke-width="0.5" wy-data="」"></path>
+    <text x="703.8461538461539" y="210" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#222" wy-data="是">是</text>
+    <text x="703.8461538461539" y="228" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#222" wy-data="矣">矣</text>
+    <circle cx="724.2307692307693" cy="228" r="2.5714285714285716" stroke="#E53" fill="none" stroke-width="1" wy-data="。"></circle>
+    <text x="703.8461538461539" y="246" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#222" wy-data="昔">昔</text>
+    <text x="703.8461538461539" y="264" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#222" wy-data="之">之</text>
+    <path d="M699.8461538461539 275.25 L705.323076923077 270.75 L721.7538461538462 270.75 L727.2307692307693 275.25" stroke="#222" fill="none" stroke-width="0.5" wy-data="「"></path>
+    <text x="703.8461538461539" y="291" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#248" wy-data="使">使</text>
+    <text x="703.8461538461539" y="309" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#248" wy-data="用">用</text>
+    <text x="703.8461538461539" y="327" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#248" wy-data="者">者</text>
+    <text x="703.8461538461539" y="345" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#248" wy-data="明">明</text>
+    <text x="703.8461538461539" y="363" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#248" wy-data="細">細</text>
+    <path d="M699.8461538461539 367.5 L705.323076923077 372 L721.7538461538462 372 L727.2307692307693 367.5" stroke="#222" fill="none" stroke-width="0.5" wy-data="」"></path>
+    <text x="703.8461538461539" y="390" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#222" wy-data="之">之</text>
+    <path d="M699.8461538461539 401.25 L705.323076923077 396.75 L721.7538461538462 396.75 L727.2307692307693 401.25" stroke="#222" fill="none" stroke-width="0.5" wy-data="「"></path>
+    <path d="M699.8461538461539 410.25 L705.323076923077 405.75 L721.7538461538462 405.75 L727.2307692307693 410.25" stroke="#222" fill="none" stroke-width="0.5" wy-data="「"></path>
+    <text x="703.8461538461539" y="426" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#248" wy-data="信">信</text>
+    <text x="703.8461538461539" y="444" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#248" wy-data="箱">箱</text>
+    <path d="M699.8461538461539 448.5 L705.323076923077 453 L721.7538461538462 453 L727.2307692307693 448.5" stroke="#222" fill="none" stroke-width="0.5" wy-data="」"></path>
+    <path d="M699.8461538461539 457.5 L705.323076923077 462 L721.7538461538462 462 L727.2307692307693 457.5" stroke="#222" fill="none" stroke-width="0.5" wy-data="」"></path>
+    <text x="703.8461538461539" y="480" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#E53" wy-data="者">者</text>
+    <circle cx="724.2307692307693" cy="480" r="2.5714285714285716" stroke="#E53" fill="none" stroke-width="1" wy-data="。"></circle>
+    <text x="703.8461538461539" y="498" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#222" wy-data="今">今</text>
+    <path d="M699.8461538461539 509.25 L705.323076923077 504.75 L721.7538461538462 504.75 L727.2307692307693 509.25" stroke="#222" fill="none" stroke-width="0.5" wy-data="「"></path>
+    <path d="M699.8461538461539 518.25 L705.323076923077 513.75 L721.7538461538462 513.75 L727.2307692307693 518.25" stroke="#222" fill="none" stroke-width="0.5" wy-data="「"></path>
+    <text x="703.8461538461539" y="534" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#248" wy-data="c">c</text>
+    <text x="703.8461538461539" y="552" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#248" wy-data="h">h</text>
+    <text x="703.8461538461539" y="570" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#248" wy-data="i">i</text>
+    <text x="703.8461538461539" y="588" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#248" wy-data="c">c</text>
+    <text x="676.4615384615386" y="138" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#248" wy-data="k">k</text>
+    <text x="676.4615384615386" y="156" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#248" wy-data="e">e</text>
+    <text x="676.4615384615386" y="174" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#248" wy-data="n">n</text>
+    <text x="676.4615384615386" y="192" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#248" wy-data="@">@</text>
+    <text x="676.4615384615386" y="210" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#248" wy-data="g">g</text>
+    <text x="676.4615384615386" y="228" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#248" wy-data="m">m</text>
+    <text x="676.4615384615386" y="246" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#248" wy-data="a">a</text>
+    <text x="676.4615384615386" y="264" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#248" wy-data="i">i</text>
+    <text x="676.4615384615386" y="282" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#248" wy-data="l">l</text>
+    <text x="676.4615384615386" y="300" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#248" wy-data=".">.</text>
+    <text x="676.4615384615386" y="318" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#248" wy-data="c">c</text>
+    <text x="676.4615384615386" y="336" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#248" wy-data="o">o</text>
+    <text x="676.4615384615386" y="354" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#248" wy-data="m">m</text>
+    <path d="M672.4615384615386 358.5 L677.9384615384616 363 L694.3692307692309 363 L699.8461538461539 358.5" stroke="#222" fill="none" stroke-width="0.5" wy-data="」"></path>
+    <path d="M672.4615384615386 367.5 L677.9384615384616 372 L694.3692307692309 372 L699.8461538461539 367.5" stroke="#222" fill="none" stroke-width="0.5" wy-data="」"></path>
+    <text x="676.4615384615386" y="390" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#222" wy-data="是">是</text>
+    <text x="676.4615384615386" y="408" font-size="20" font-family="'I.Ming', 'Source Han Serif KR', 'Noto Serif CJK KR', serif" fill="#222" wy-data="矣">矣</text>
+    <circle cx="696.8461538461539" cy="408" r="2.5714285714285716" stroke="#E53" fill="none" stroke-width="1" wy-data="。"></circle>
+</svg>
