@@ -1,6 +1,6 @@
 function sayHello(person: string) {
-    return 'Hello, ' + person;
+    return 'Hello, ' + person + 'has 30 cm.';
 }
 
-let user = 'Tom';
+let user = 'Elvina';
 console.log(sayHello(user));
